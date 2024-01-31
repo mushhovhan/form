@@ -1,0 +1,73 @@
+body{
+    display:flex;
+justify-content: center;
+}
+table {
+    border: 3px solid rgb(98, 104, 104);
+    border-spacing: 5px;
+}
+
+.a {
+    background-color: rgb(246, 232, 105);
+    color: red;
+    height: 30px;
+    font-size: 26px;
+}
+
+.td123 {
+    background-color: rgb(125, 228, 148);
+    width: 270px;
+
+
+
+
+}
+
+.b {
+    width: 200px;
+    height: 30px;
+    background-color: hsl(209, 93%, 54%);
+
+}
+
+.ab {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(125, 228, 148);
+    text-align-last: center;
+}
+
+
+
+
+.q {
+    background-color: hsl(209, 93%, 54%);
+    text-align-last: center;
+}
+
+#e {
+    background-color: rgb(125, 228, 148);
+    width: 220px;
+
+
+}
+
+.k {
+    text-align-last: center
+}
+
+.select {
+    width: 180px;
+    height: 110px;
+}
+
+.Enter {
+    width: 300px;
+    text-align: center;
+}
+
+.email {
+    width: 270px;
+    height: 50px;
+    background-color: rgb(125, 228, 148);
+}
